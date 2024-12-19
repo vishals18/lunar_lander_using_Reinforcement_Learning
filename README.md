@@ -30,4 +30,4 @@ This project implements various Reinforcement Learning (RL) techniques to contro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/lunar-lander-rl.git
+   git clone https://github.com/vishals18/lunar_lander.git
