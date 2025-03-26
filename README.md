@@ -24,10 +24,4 @@ This project implements various Reinforcement Learning (RL) techniques to contro
 3. **DDQN with Prioritized Experience Replay (PER)**: Enhances sampling efficiency by prioritizing important experiences.
 4. **Dueling DDQN with PER**: Combines Dueling architecture with PER to optimise learning and decision-making.
 
----
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vishals18/lunar_lander.git
